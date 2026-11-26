@@ -1,5 +1,8 @@
 # Team 18 — FPGA Co-op Docking | External Display
 
+> **Only have the DLC9LP JTAG programmer?** Use [JTAG_SETUP.md](JTAG_SETUP.md) and run `run_jtag_windows.bat`. No UART cable is needed. The instructions below describe the original optional UART mode.
+
+
 ORBITAL / 18 — Python laptop viewer for the FPGA-controlled spaceship.
 
 ## Run on Windows
